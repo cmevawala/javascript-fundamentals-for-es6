@@ -1,0 +1,1 @@
+// Several New Trignomatry Function in Math Object
