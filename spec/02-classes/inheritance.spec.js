@@ -1,11 +1,11 @@
-class Person {
-    constructor() {
-    }
-}
+// class Person {
+//     constructor() {
+//     }
+// }
 
-class Employee extends Person {
+// class Employee extends Person {
 
-}
-var e = new Employee();
-e._name = "Chitrang";
-console.log(e.name);
+// }
+// let e = new Employee();
+// e._name = "Chitrang";
+// console.log(e.name);

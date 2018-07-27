@@ -4,7 +4,7 @@
 // console.log(x); // 3
 // console.log(y); // 2
 
-// var doWork = function () {
+// let doWork = function () {
 //     return [1, 2, 3];
 // };
 // let [x, , y, z] = doWork();

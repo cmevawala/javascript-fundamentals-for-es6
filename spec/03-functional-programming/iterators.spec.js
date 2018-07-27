@@ -3,13 +3,13 @@
 // Using the iteratos next() method will allow the client to move to next item in a list.
 
 // Below code not working in node
-let numbers = [1, 2, 3, 4];
-let iterator = numbers.values();
-let sum = 0;
-let next = iterator.next();
-while(!next.done) {
-    sum += next.value;
-    next = iterator.next();
-};
-console.log(sum);
+// let numbers = [1, 2, 3, 4];
+// let iterator = numbers.values();
+// let sum = 0;
+// let next = iterator.next();
+// while(!next.done) {
+//     sum += next.value;
+//     next = iterator.next();
+// };
+// console.log(sum);
   

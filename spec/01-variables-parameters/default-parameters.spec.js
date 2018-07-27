@@ -1,12 +1,12 @@
 // Default parameters work only with undefined values
-// var doWork = function (name = "Scott") {
+// let doWork = function (name = "Scott") {
 //     return name;
 // };
 
 // console.log(doWork(undefined));
 
 
-// var doWork = function (a = 1, b = 2, c = 3) {
+// let doWork = function (a = 1, b = 2, c = 3) {
 //     return a + " " + b + " " + c;
 // };
 
